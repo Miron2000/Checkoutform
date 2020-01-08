@@ -1,0 +1,13 @@
+@import 'section.scss';
+@import 'section-1.scss';
+@import 'icon.scss';
+@import 'form-2.scss';
+@import 'form-3.scss';
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(to left, #7013eb, #a791c4);
+}
